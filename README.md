@@ -8,6 +8,10 @@ Sieve of Eratosthenes - prime number generator
 Fibonacci(n) - recursive method  
 FibonacciDP(n) - iterative method  
 
+## Catalan
+Catalan(n) - recursive method  
+CatalanDP(n) - iterative method  
+
 # Running code locally
 1. Type the 'gulp' command in the project root directory to build. (https://gulpjs.com/)
 2. Type 'node .\dist\main.js' to test.
